@@ -1,4 +1,3 @@
-Forward mail
-============
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-Configures the server to forward `root` mail to a designated address using SMTP mail forwarding. 
+[1]: https://github.com/open-craft/ansible-playbooks
